@@ -1,4 +1,0 @@
-requests
-websockets
-phonenumbers
-python-telegram-bot==21.6
