@@ -1,5 +1,13 @@
+pyTelegramBotAPI
 requests
+aiohttp
 websockets
 phonenumbers
-python-telegram-bot==22.0
-pyTelegramBotAPI
+flask
+beautifulsoup4
+lxml
+pytz
+schedule
+fake-useragent
+urllib3
+certifi
