@@ -2,3 +2,4 @@ requests
 websockets
 phonenumbers
 python-telegram-bot==22.0
+pyTelegramBotAPI
