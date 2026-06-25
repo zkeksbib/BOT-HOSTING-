@@ -44,7 +44,7 @@ XUP_USERNAME = "saboor318"
 XUP_PASSWORD = "saboor318"
 
 # ------------------ TELEGRAM ------------------
-TELEGRAM_BOT_TOKEN = "8779005863:AAGdhmwCa75Usjd10JJHM8d6eaQ__g_DXNI"
+TELEGRAM_BOT_TOKEN = "8128477326:AAG2GY8Y2MLk1_OIvUaGQpUv0lhIUcQOQUM"
 TELEGRAM_GROUP_ID = "-1003867730992"
 
 # ------------------ MEMORY & SESSIONS ------------------
