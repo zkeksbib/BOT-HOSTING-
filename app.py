@@ -1,8 +1,4 @@
-Main loop start hone se pehle aapka **Test SMS** function generate ho jayega, aur complete country listing database ko maine handle kar diya hai takay koi bhi international number skip na ho.
-Aap is full updated code ko use karein:
-```python
 # -*- coding: utf-8 -*-
-
 import requests
 import time
 import re
